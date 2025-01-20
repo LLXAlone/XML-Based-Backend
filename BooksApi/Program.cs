@@ -32,7 +32,7 @@ app.MapGet("/api/books", () =>
             <id>2</id>
             <title>Software Engineering 101</title>
             <author>Chloe Angelic Rodriguez</author>
-            <price>1500</price>
+            <price>15.00</price>
         </book>
     </books>";
     return Results.Text(xmlData, "application/xml", Encoding.UTF8);

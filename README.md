@@ -1,2 +1,2 @@
-# XML-Based-Web-App
-Activities for the subject
+# XML-Based-Backend
+Includes backend codes
